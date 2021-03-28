@@ -1,0 +1,6 @@
+sudo nano /etc/elasticsearch/elasticsearch.yml
+
+sudo systemctl start elasticsearch
+
+sudo /bin/systemctl daemon-reload
+
